@@ -9,6 +9,15 @@ rsiconfi
 The goal of `rsiconfi` is to retrieve accounting data from brazilian
 public sector databases.
 
+Update
+------------
+
+This repo contains an updated version of this package in relation to the CRAN version that fixes some errors. Install with:
+
+```r
+devtools::install_github("smartlab-br/rsiconfi")
+```
+
 Installation
 ------------
 
